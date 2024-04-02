@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "650daec140e0be7842fc420d"
+  },
+  "name": "Sensor_de_prueba",
+  "location": "Casa Santi",
+  "createAt": {
+    "$date": "2023-09-22T15:12:01.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650dc7d640e0be7842fc4239"
+  },
+  "name": "SCD40_1",
+  "location": "Hidroponico",
+  "createAt": {
+    "$date": "2023-09-22T16:59:02.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651203198748ed5dd33b6d2e"
+  },
+  "name": "BME680_1",
+  "location": "Hidroponico",
+  "createAt": {
+    "$date": "2023-09-25T22:00:57.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c1ed9bb53dc7816e866e"
+  },
+  "name": "BME680_1",
+  "location": "Hidroponico",
+  "createAt": {
+    "$date": "2023-09-26T11:35:09.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651b3c1a60ccd1c529a301d5"
+  },
+  "name": "PH_EC",
+  "location": "Hidroponico",
+  "createAt": {
+    "$date": "2023-10-02T21:54:34.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65391fa4700d51b6d681b3c5"
+  },
+  "name": "SCD40_2",
+  "location": "Cultivo",
+  "createAt": {
+    "$date": "2023-10-25T14:01:08.776Z"
+  },
+  "__v": 0
+}]
